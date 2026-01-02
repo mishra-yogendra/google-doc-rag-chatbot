@@ -1,0 +1,22 @@
+# Core UI
+streamlit>=1.30.0
+
+# LLM (Groq)
+groq>=0.9.0
+
+# LangChain core + integrations
+
+langchain-community>=0.0.20
+langchain-huggingface>=0.0.3
+
+
+# Embeddings
+sentence-transformers>=2.2.2
+transformers>=4.36.0
+torch>=2.0.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Google Docs fetching
+requests>=2.31.0
